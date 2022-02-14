@@ -1,4 +1,9 @@
-#q1
+# PYHTON ASSIGNMENT 3rd
+# Name= ANMOL GARG(cse)
+#SID=21103025
+
+
+# assignment question 1
 
 string1=input("Give a string-")
 list1=[]
@@ -26,7 +31,8 @@ else:
     print("Done!")
 
 
-#q2
+
+# assignment question 2
 
 month=int(input("Give month-"))
 
@@ -89,8 +95,8 @@ else:
     print("invalid month")
 print("Done!")    
 
-#q3
 
+# assignment question 3
 alist=[1,2,3,4,5,6,7,8,9,10]
 list_with_tuples=[]
 for i in alist:
@@ -98,7 +104,8 @@ for i in alist:
 print(list_with_tuples)
 print("Done!")
 
-#q4
+# assignment question 4
+
 #we will create if else statements
 
 Grade_points=int(input("Give a number between 4 and 10 including them-"))
@@ -127,7 +134,8 @@ else:
     print("error")
 print("Done!")
 
-#q5
+
+# assignment question 5
 
 Word="ABCDEFGHIJK"
 
@@ -143,7 +151,7 @@ while(counter<7):
 
 print("Done!")
 
-#q6
+# assignment question 6
 
 student_info=dict()
 n="y"
@@ -225,7 +233,8 @@ print("The name of the student with the entered sid is-")
 print(student_info[entered_sid])
 print("Done!")
 
-#q7
+# assignment question 7
+
 #fibonacci sequence
 first_term=int(input("Give a number-"))
 second_term=int(input("Give a number-"))
@@ -248,7 +257,8 @@ print("Average of the sequence-")
 print(sum/len(series))
 print("Done!")
 
-#q8
+# assignment question 8
+
 Set1={1,2,3,4,5}
 Set2={2,4,6,8}
 Set3={1,5,9,13,17}
